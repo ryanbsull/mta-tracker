@@ -1,0 +1,4 @@
+protobuf==3.20.1
+protobuf3_to_dict==0.1.5
+protobuf_to_dict==0.1.0
+Requests==2.32.3
